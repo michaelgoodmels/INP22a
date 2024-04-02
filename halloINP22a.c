@@ -1,6 +1,9 @@
-#include <iostream>
+using System;
 
-int main() {
-    std::cout << "Hallo INP22a!" << std::endl;
-    return 0;
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hallo INP22a in C#!");
+    }
 }
